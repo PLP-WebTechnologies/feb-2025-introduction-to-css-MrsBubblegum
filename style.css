@@ -1,0 +1,36 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 0 20px;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: #c42152;
+}
+
+h2 {
+  border: 1px solid #00989d;
+  border-radius: 15px;
+}
+
+.info {
+  text-align: center;
+  font-weight: 850;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+img {
+  max-width: 300px;
+  margin: 0 auto;
+  display: block;
+  padding: 15px;
+  border-radius: 25px;
+}
+
+#coded-by {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #2c3930;
+  font-size: 15px;
+}
